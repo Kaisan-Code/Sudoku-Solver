@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import font as tkfont
-from main import sudoko_solver
+from solver import sudoko_solver
 
 
 class SudokuGUI():
